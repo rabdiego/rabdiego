@@ -12,3 +12,5 @@ Some other things I enjoy are:
 - ⚽ Football
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikrs14&layout=compact&theme=radical)](https://github.com/nikrs14/github-readme-stats)
+
+Note: all repositories that start with "trabalho" are documented in Portuguese.
