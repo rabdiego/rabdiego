@@ -1,16 +1,24 @@
-### `f'Hello, {visitor.get_user_name()}!'`
+# Welcome!
 
-My name is Diego Rabelo, but you can call me **Nik**. I'm currently studying Computer Science at Federal University of Ceará (UFC).
+![GIF](fullyconnected.gif)
 
-I'm a big fan of AI and Machine Learning, and that is my focus on my career. I also find IoT and Computer Graphics pretty cool, even though those aren't my main interests.
+---
+## 🇧🇷 Who am I
+I'm Diego, a Computer Science student at UFC (Universidade Federal do Ceará), and currently working at [LSBD](https://lsbd.ufc.br/), in Fortaleza - Brazil.
 
-Some other things I enjoy are:
-- 🎸 Playing guitar
-- 🚴‍♂️ Cycling
-- 🎮 Nintendo games
-- 🌊 Beaches
-- ⚽ Football
+## 💻 What do I code with?
+- 🐍 Python
+- 🔥 PyTorch
+- 🌳 Git
+- 🐧 Linux
+- 🇨 C/C++
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikrs14&layout=compact&theme=radical)](https://github.com/nikrs14/github-readme-stats)
+## 💜 What do I love?
+- 🧠 Machine Learning
+- 🔓 Open Source
+- 🤖 Automation
 
-Note: all repositories that start with "trabalho" are documented in Portuguese.
+## 📈 How about some stats?
+
+| <a href="https://github.com/nikrs14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikrs14&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nikrs14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikrs14&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
