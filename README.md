@@ -27,4 +27,5 @@ I'm Diego, a Computer Science student at UFC (Universidade Federal do Ceará), a
 I'm taking a course on Machine Learning on Udemy, and here are the current models that I've developed:
 - [Simple Linear Regression](https://github.com/nikrs14/simple-linear-regression.git)
 - [Multiple Linear Regression](https://github.com/nikrs14/multiple-linear-regression.git)
+- [Polynomial Regressions](https://github.com/nikrs14/polynomial-regression.git)
 
