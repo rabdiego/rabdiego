@@ -28,4 +28,5 @@ I'm taking a course on Machine Learning on Udemy, and here are the current model
 - [Simple Linear Regression](https://github.com/nikrs14/simple-linear-regression.git)
 - [Multiple Linear Regression](https://github.com/nikrs14/multiple-linear-regression.git)
 - [Polynomial Regression](https://github.com/nikrs14/polynomial-regression.git)
+- [Support Vector Regression](https://github.com/nikrs14/support-vector-regression.git)
 
