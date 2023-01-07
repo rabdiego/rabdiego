@@ -30,4 +30,5 @@ I'm taking a course on Machine Learning on Udemy, and here are the current model
 - [Polynomial Regression](https://github.com/nikrs14/polynomial-regression.git)
 - [Support Vector Regression](https://github.com/nikrs14/support-vector-regression.git)
 - [Decision Tree Regression](https://github.com/nikrs14/decision-tree-regression.git)
+- [Random Forest Regression](https://github.com/nikrs14/random-forest-regression.git)
 
