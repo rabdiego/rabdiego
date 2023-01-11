@@ -43,4 +43,5 @@ I'm taking a course on Machine Learning on Udemy, and here are the current model
 - [Random Forest Regression](https://github.com/nikrs14/random-forest-regression.git)
 - - [**All Regression Models** Resume](https://github.com/nikrs14/regression-resume.git)
 - [Logistic Regression](https://github.com/nikrs14/logistic-regression.git)
+- [K-Nearest Neighbours](https://github.com/nikrs14/k-nn.git)
 
