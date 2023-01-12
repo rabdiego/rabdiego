@@ -45,4 +45,7 @@ I'm taking a course on Machine Learning on Udemy, and here are the current model
 - [Logistic Regression](https://github.com/nikrs14/logistic-regression.git)
 - [K-Nearest Neighbours](https://github.com/nikrs14/k-nn.git)
 - [Support Vector Machine](https://github.com/nikrs14/support-vector-machine.git)
+- [Naive Bayes Classifier](https://github.com/nikrs14/naive-bayes-classifier.git)
+- [Decision Tree Classifier](https://github.com/nikrs14/decision-tree-classifier.git)
+- [Random Forest Classifier](https://github.com/nikrs14/random-forest-classifier.git)
 
