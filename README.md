@@ -41,7 +41,6 @@ I'm taking a course on Machine Learning on Udemy, and here are the current model
 - [Support Vector Regression](https://github.com/nikrs14/support-vector-regression.git)
 - [Decision Tree Regression](https://github.com/nikrs14/decision-tree-regression.git)
 - [Random Forest Regression](https://github.com/nikrs14/random-forest-regression.git)
-- - [**All Regression Models** Resume](https://github.com/nikrs14/regression-resume.git)
 - [Logistic Regression](https://github.com/nikrs14/logistic-regression.git)
 - [K-Nearest Neighbours](https://github.com/nikrs14/k-nn.git)
 - [Support Vector Machine](https://github.com/nikrs14/support-vector-machine.git)
