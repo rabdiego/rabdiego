@@ -47,4 +47,5 @@ I'm taking a course on Machine Learning on Udemy, and here are the current model
 - [Naive Bayes Classifier](https://github.com/nikrs14/naive-bayes-classifier.git)
 - [Decision Tree Classifier](https://github.com/nikrs14/decision-tree-classifier.git)
 - [Random Forest Classifier](https://github.com/nikrs14/random-forest-classifier.git)
+- [K-Means Clustering](https://github.com/nikrs14/k-means-clustering.git)
 
