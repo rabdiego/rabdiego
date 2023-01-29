@@ -49,4 +49,6 @@ I'm taking a course on Machine Learning on Udemy, and here are the current model
 - [Random Forest Classifier](https://github.com/nikrs14/random-forest-classifier.git)
 - [K-Means Clustering](https://github.com/nikrs14/k-means-clustering.git)
 - [Hierarchical Clustering](https://github.com/nikrs14/hierarchical-clustering.git)
+- [Artificial Neural Network](https://github.com/nikrs14/artificial-neural-network.git)
+- [Convolutional Neural Network](https://github.com/nikrs14/convolutional-neural-network.git)
 
