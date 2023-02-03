@@ -21,6 +21,7 @@ I'm Diego, a Computer Science student at UFC (Universidade Federal do Ceará), a
   <code><img height="30" src="./icons/C_Logo.png"></code>
   <code><img height="30" src="./icons/ISO_C++_Logo.svg.png"></code>
   <code><img height="30" src="./icons/1200px-Java_programming_language_logo.svg.png"></code>
+  <code><img height="30" src="./icons/743164.png"></code>
  </div>
 
 ## 💜 What do I love?
