@@ -31,7 +31,7 @@ I'm Diego, a Computer Science student at UFC (Universidade Federal do Ceará), a
 
 ## 📈 How about some stats?
 
-| <a href="https://github.com/nikrs14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikrs14&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nikrs14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikrs14&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/rabdiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rabdiego4&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/rabdiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabdiego&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 🧠 Machine Learning Models
