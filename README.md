@@ -31,7 +31,7 @@ I'm Diego, a Computer Science student at UFC (Universidade Federal do Ceará), a
 
 ## 📈 How about some stats?
 
-| <a href="https://github.com/rabdiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rabdiego&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/rabdiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabdiego&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/rabdiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rabdiego&count_private=true&theme=radical" alt="Anurag's github stats" /></a> | <a href="https://github.com/rabdiego/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabdiego&langs_count=5&hide=jupyter%20notebook&theme=radical" /></a> | 
 | ------------- | ------------- |
 
 
