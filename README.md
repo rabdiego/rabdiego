@@ -25,9 +25,10 @@ I'm Diego, a Computer Science student at UFC (Universidade Federal do Ceará), a
  </div>
 
 ## 💜 What do I love?
+- 📊 Data Science
 - 🧠 Machine Learning
 - 🔓 Open Source
-- 🤖 Automation
+- 👾 Game Development (sometimes :v)
 
 ## 📈 How about some stats?
 
