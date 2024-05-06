@@ -4,7 +4,7 @@
 
 ---
 ## 🇧🇷 Who am I
-I'm Diego, a Computer Science student at UFC (Universidade Federal do Ceará), and currently working at [LSBD](https://lsbd.ufc.br/), in Fortaleza - Brazil.
+I'm Diego, a Computer Science student at UFC (Universidade Federal do Ceará), and currently working at [InsightLab](https://www.insightlab.ufc.br/), in Fortaleza - Brazil.
 
 ## 💻 What do I code with?
 <div align="center">
